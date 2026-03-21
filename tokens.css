@@ -7,11 +7,15 @@
 :root {
   /* Accent */
   --ll-accent: #000000;
-  --ll-accent-hover: #9a4800;
+  --ll-accent-hover: #f5a848;
   --ll-accent-fg: #ffffff;
 
   /* Radius */
   --ll-radius: 0.25rem;
+
+  /* Layout */
+  --ll-font-size: 100%;
+  --ll-max-width: 1400px;
 
   /* Light mode (default) */
   --ll-bg: #f5f5f5;

@@ -10,7 +10,7 @@
  */
 (function () {
   var STORAGE_KEY = 'll-theme';
-  var prefersDark = window.matchMedia('(prefers-color-scheme: dark)');
+  var prefersDark = globalThis.matchMedia('(prefers-color-scheme: dark)');
 
   function getTheme() {
     return localStorage.getItem(STORAGE_KEY) || (prefersDark.matches ? 'dark' : 'light');

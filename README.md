@@ -4,6 +4,6 @@ Styles and scripts shared between Lodes & Lanterns webpages and apps. Used as a 
 
 ## License
 
-**Copyright (c) 2026 Reese Schultz & Contributors**
+**Copyright (c) 2026 Reese Schultz**
 
 All contributions to this repository are licensed under [MIT](LICENSE).
